@@ -120,4 +120,8 @@ a:hover {
     text-align: left;
     font-size: 14pt;
   }
- }
+  
+  .tab { 
+    margin-left: 40px; 
+  }
+}
