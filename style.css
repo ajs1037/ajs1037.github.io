@@ -122,6 +122,9 @@ a:hover {
   }
   
   .tab { 
-    margin-left: 40px; 
+    text-indent:40px;  
+  }
+  .tab2 { 
+    text-indent:80px;  
   }
 }
